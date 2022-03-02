@@ -9,6 +9,7 @@
 - PrimeNG https://www.primefaces.org/
 - ng-Bootstrap https://ng-bootstrap.github.io/
 - NG Zorro https://ng.ant.design/
+- jqWidgets https://www.jqwidgets.com/angular/
 
 ## 2. Code Generators
 - AutoRest (https://github.com/Azure/autorest)
