@@ -10,6 +10,7 @@
 - ng-Bootstrap https://ng-bootstrap.github.io/
 - NG Zorro https://ng.ant.design/
 - jqWidgets https://www.jqwidgets.com/angular/
+- Spartan UI hppts://www.spartan.ng
 
 ## 2. Code Generators
 - AutoRest (https://github.com/Azure/autorest)
